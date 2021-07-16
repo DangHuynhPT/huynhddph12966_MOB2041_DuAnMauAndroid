@@ -36,6 +36,7 @@ public class Ls_Adapter extends RecyclerView.Adapter<Ls_Adapter.LoaiSachhoder> {
         this.context = context;
         this.sachList = sachList;
         this.loDao = loDao;
+        // commit
     }
 
     @NonNull
